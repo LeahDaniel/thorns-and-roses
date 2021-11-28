@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 2rem;
+    border: rgb(184, 183, 183) 1px solid;
+    justify-content: space-around;
+}
+
+.navbar__item {
+    list-style-type: none;
+}
+
+.navbar__link{
+    color: rgb(137, 187, 226);
+}

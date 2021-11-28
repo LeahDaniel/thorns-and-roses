@@ -1,0 +1,12 @@
+.retailers{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.retailer{
+    text-align: center;
+    border: rgb(184, 183, 183) 1px solid;
+    width: 50%;
+    padding: 2rem 4rem
+}
